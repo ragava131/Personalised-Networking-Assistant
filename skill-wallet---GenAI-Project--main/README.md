@@ -203,19 +203,19 @@ Example output:
 
 ## 👨‍💻 Author
 
-**Syed Mohammad Sameer**
+**GUDIPATI K N V S RAGAVENDRA **
 
-Email : syedsame2244@gmail.com
+Email :ragugudipati9992@gmail.com
 
-Roll No. : 23HM1A3354
+Roll No. : 24P35A1206
 
-B.Tech CSE (AI & ML)
+B.Tech (IT)
 
 Course : Google Cloud Generative AI
 
-AITS Kadapa
+ACET SURAMPALEM
 
-GitHub: https://github.com/samxiao0
+
 
 ---
 
