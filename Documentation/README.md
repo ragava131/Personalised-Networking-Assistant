@@ -1,4 +1,4 @@
-**AI-ML-and-GEN-AI-Track-Project-Template**
+**IT-and-GEN-AI-Track-Project-Template**
 
 **Repository Structure**
 
