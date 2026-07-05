@@ -205,53 +205,16 @@ Example output:
 
 **Course : Google Cloud Generative AI**
 
-**AITS Kadapa**
+**ACET SURAMPALEM**
 
-**B.Tech CSE (AI & ML)**
+**B.Tech (IT)**
 
 
-**Syed Mohammad Sameer**
+**GUDIPATI K N V S RAGAVENDRA**
 
-Email : syedsame2244@gmail.com
+Email :ragugudipati9992@gmail.com
 
-Roll No. : 23HM1A3354
+Roll No. : 24P35A1206
 
-GitHub: https://github.com/samxiao0
+GitHub: 
 
-1. Name : 
-
-Email :
-
-Roll No. :
-
-GitHub:
-
-2. Name : 
-
-Email :
-
-Roll No. :
-
-GitHub:
-
-3. Name : 
-
-Email :
-
-Roll No. :
-
-GitHub:
-
-4. Name : 
-
-Email :
-
-Roll No. :
-
-GitHub:
-
----
-
-## 📜 License
-
-This project was developed as part of an internship project for educational purposes.
